@@ -1,0 +1,1 @@
+"pip install -r requirements.txt" komutu ile bağımlılıkları yükleyebilirsiniz.

@@ -1,0 +1,8 @@
+pyfiglet             
+dnspython              
+socket                 
+os                  
+python-nmap                   
+scapy
+dnspython
+paramiko
